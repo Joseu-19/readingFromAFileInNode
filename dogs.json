@@ -1,0 +1,46 @@
+[
+    {
+      "name": "Anthony",
+      "type": "Dog",
+      "gender": "Male",
+      "status": "Neutered",
+      "breed": "Terrier, Pit Bull/Mix",
+      "age": "6 years 3 months",
+      "location": "in foster"
+    },
+    {
+      "name": "Artemis",
+      "type": "Dog",
+      "gender": "Female",
+      "status": "Spayed",
+      "breed": "Shepherd/Mix",
+      "age": "1 year"
+    },
+    {
+      "name": "Artie",
+      "type": "Dog",
+      "gender": "Male",
+      "status": "Neutered",
+      "breed": "Australian Cattle Dog/Mix",
+      "age": "4 years 6 months",
+      "location": "in foster"
+    },
+    {
+      "name": "Beanie",
+      "type": "Dog",
+      "gender": "Male",
+      "status": "Neutered",
+      "breed": "Terrier, American Pit Bull/Mix",
+      "age": "2 years 8 months"
+    },
+    {
+      "name": "Boo Boo",
+      "type": "Dog",
+      "gender": "Female",
+      "status": "Spayed",
+      "breed": "American Eskimo/Mix",
+      "age": "9 years 3 months",
+      "location": "in foster"
+    }
+  ]
+  
